@@ -1,0 +1,6 @@
+if SHIELD_SHWIQQIMINI
+
+config ZMK_KEYBOARD_NAME
+    default "ShwiqqiMini"
+
+endif
