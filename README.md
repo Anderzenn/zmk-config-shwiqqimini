@@ -1,3 +1,6 @@
+# ShwiqqiMini V1 Rev.1
+![render_1](https://github.com/user-attachments/assets/43f83409-a631-4076-b3aa-92215686b9fe)
+
 # WIP
 
 Shwiqqi Mini is at it's core a TKL but with some of the keys moved to the left side, dedicated media keys and a rotary knob.
